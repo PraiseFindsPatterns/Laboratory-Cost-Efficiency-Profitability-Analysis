@@ -62,7 +62,7 @@ The project includes:
 ---
 
 ## Author
-**Praise Onu**  
+**Praise Veronica Onu**  
 Emerging Data Analyst  
 
 ---
